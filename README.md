@@ -1,7 +1,7 @@
 # postureExt
 
 ## Background
-postureExt is a chrome extension that uses your camera to help you keep an upright posture while working for long hours. With the help of [tensorflow](https://github.com/tensorflow) model [posenet](https://github.com/tensorflow/tfjs-models/tree/master/posenet), the extensention will capture a model of your upright posture and it will continuously take measures to make sure your they align with the original standards set. if you slouch, for a long time, the Ext will give you an alert to change your position and the alert will go away when you.
+postureExt is a chrome extension that uses your camera to help you keep an upright posture while working for long hours. With the help of [tensorflow](https://github.com/tensorflow) model [posenet](https://github.com/tensorflow/tfjs-models/tree/master/posenet), the extensention will capture a model of your upright posture and it will continuously take measures to make sure they align with the original standard set. if you slouch, for a long time, the Ext will give you an alert to change your position and the alert will go away when you.
 ## Usage
 - useful tool when working for long hours
 - Great extention if you struggle with slouching during long working hours
